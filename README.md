@@ -1,2 +1,3 @@
 # Ecommerce-Sales-Analytics-main
 End-to-end e-commerce sales analytics on 30K orders using MySQL, Python (Pandas, Matplotlib, Seaborn) and Power BI: data cleaning, EDA and an interactive 4-page dashboard.
+This project analyzes e-commerce order data to understand revenue, profit, product performance and customer behavior. Data was validated and cleaned in MySQL, explored in Python with Pandas, Matplotlib and Seaborn, and visualized in a Power BI dashboard (Executive Summary, Sales, Customer and Product pages) with DAX measures and slicers. Key findings include top-performing categories, seasonal revenue trends and the best traffic sources.
